@@ -1,0 +1,15 @@
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\bin\Debug\StudentInfo3B.exe.config
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\bin\Debug\StudentInfo3B.exe
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\bin\Debug\StudentInfo3B.pdb
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\bin\Debug\EntityFramework.dll
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\bin\Debug\EntityFramework.xml
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.csprojAssemblyReference.cache
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.Form1.resources
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.Properties.Resources.resources
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.csproj.GenerateResource.cache
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.csproj.CoreCompileInputs.cache
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.csproj.CopyComplete
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.exe
+C:\Users\vynlo\Documents\2750-jesse-poulin\jpoulin2750Unit3StudentInfo\StudentInfo3B\obj\Debug\StudentInfo3B.pdb
